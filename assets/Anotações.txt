@@ -1,0 +1,52 @@
+Composição do time Frontend:
+(UX + UI + Desenvolvedor)
+
+1 - Ux: User Experience (Pessoa responsável pela usabilidade do site, a forma como ele será usado);
+2 - UI: User Interface (Pessoal responsável pelo desing, o visual do que será usado);
+3 - Desenvolvedor frontend (Programador de fato de todo o visual pensado pelo desing, é a pessoa que vai fazer funcionar. O desenvolvedor frontend deverá já receber os inputs do time de UI e trabalhar com o material pronto (Fotos, banners, artes, modelos figma, tons de cor, gradientes e etc.));
+
+
+03 formas para se declarar o CSS:
+Forma 01: CSS inLine: Declarando o comando CSS na mesma linha onde deverá ser executado
+Forma 02: CSS dentro da tag <style> que ficará dentro da tag <head>: Declarando um comando padrão CSS para cada tag, por exemplo a tag <p>, e daí esse comando será repliacado para todos as tags que fora descritas.
+Forma 03: Criando um arquivo externo específico para o CSS, o arquivo deverá ter a extenção .CSS.
+<link rel="stylesheet" href="style.css">
+
+Diferenças entre Id e Class
+
+Id: é um marcador único de um determinado conteúdo ou tag
+Class: é um marcador que pode ser reutilizado para várias páginas e tal.
+
+important points:
+1 - Que o cabeçalho da página deve ter mais destaque
+2 - Que não é recomendado criar estilos usando tags
+3 - O ideal é usarmos classes para tudo
+
+Cada nova páfina dentro de um site, é um novo arquivo html.
+
+obs: Quando queremos dividir determinados campos de um mesmo assunto específico não usamos o <div> para dividir esse conteúdo, usamos o <fieldset> para divir aqueles campos setando o conteúdo.
+
+Site útil:
+Mobileinputtypes.com
+
+
+Obs:
+1 - Sempre que queremos falar de estilo, usamos uma classe
+2 - Sempre que queremos falar de comportamento usamos um identificador
+3 - Fontes no CSS (Pixels (px), Percentual (%) e Proporcional ao tamanho base (em)
+Porém, no CSS sempre usem uma classe.
+
+
+
+Espaçamentos:
+Padding: é o espaçamento interno do bloco
+margin: é o espaçamento externo
+
+
+
+
+Fontes web:
+1 - Oswlad
+2 - Aboreto
+3 - Montserrat
+4 - Solitreo

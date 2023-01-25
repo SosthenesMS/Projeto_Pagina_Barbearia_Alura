@@ -1,0 +1,1 @@
+Projeto de desenvolvimento de uma página web completa, para aplicar conhecimentos adquiridos durante o cruso de html5 e CSS da Alura.
